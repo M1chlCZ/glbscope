@@ -22,7 +22,7 @@ limit breaks.
 cargo install glbscope
 ```
 
-Go 1.85 or later of the Rust toolchain is required.
+Rust toolchain v1.85 or later is required.
 
 ## Usage
 
